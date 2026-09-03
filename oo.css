@@ -62,8 +62,9 @@ hr {
 }
 .Logo{
     width:100px;
+    height:auto;
     display:block;
-     margine:0 auto;
+     margin:0 auto;
 }
 .Para1{
     text-alin: center;
