@@ -60,3 +60,11 @@ hr {
     background-color: #d88918;
     margin: 20px 0;
 }
+.Logo{
+    width:100px;
+    display:block;
+     margine:0 auto;
+}
+.Para1{
+    text-alin: center;
+}
