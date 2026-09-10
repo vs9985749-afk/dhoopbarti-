@@ -74,3 +74,37 @@ hr {
     height="2000px"
     object-fit ="cover"
 }
+
+.gallary{
+    width:100;
+    display: grid;
+    gap: 15px;
+    grid-template-columns: repeat(2,1fr);
+}
+.gallary img{
+    width:100%
+    height:250px;
+    object-fit: contain;
+}
+
+.product {
+    display: flex;
+    flex-direction: column;
+    
+}
+.product p{
+    text-align: center;
+    
+}
+.W{
+    width=140;
+    padding: 10px;
+    font-size: 14px;
+    display: inline-block;
+    background-color: #25D366;
+    color:white;
+    border-radius: 10px;
+    text-decoration: none;
+    font-weight: bold;
+        }
+
