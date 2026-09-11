@@ -69,54 +69,37 @@ hr {
 .Para1{
     text-align: center;
 }
-.gallary {
-    width: 100%;
+.gallary{
+    width:100;
     display: grid;
     gap: 15px;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(2,1fr);
 }
-
+.gallary img{
+    width:100%
+    height:250px;
+    object-fit: contain;
+}
 
 .product {
     display: flex;
     flex-direction: column;
-    align-items: center;
-    background: #fff;
-    padding: 10px;
-    border-radius: 8px;
+    
 }
-
-.product p {
+.product p{
     text-align: center;
+    
 }
-
-/* Call Now button style agar zaroorat ho */
-.whattshap {
-    display: block;
-    width: 140px;
-    padding: 10px;
-    margin-bottom: 8px; /* Call now aur WhatsApp button ke beech thoda gap */
-    font-size: 14px;
-    background-color: #007bff; /* Aap apne hisab se color rakh sakte hain */
-    color: white;
-    text-align: center;
-    border-radius: 10px;
-    text-decoration: none;
-    font-weight: bold;
-}
-
-/* WhatsApp button style */
-.W {
-    width: 140px;
+.W{
+    width=140;
     padding: 10px;
     font-size: 14px;
-    display: block;
+    display: inline-block;
     background-color: #25D366;
-    color: white;
+    color:white;
     border-radius: 10px;
     text-decoration: none;
     font-weight: bold;
-    text-align: center;
 }
 
 
