@@ -68,7 +68,7 @@ hr {
 }
 .Para1{
     text-align: center;
-
+}
 .gallary {
     width: 100%;
     display: grid;
@@ -117,9 +117,6 @@ hr {
     text-decoration: none;
     font-weight: bold;
     text-align: center;
-}
-.body{
-    background -color:pink;
 }
 
 
