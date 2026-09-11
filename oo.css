@@ -76,7 +76,7 @@ hr {
     grid-template-columns: repeat(2,1fr);
 }
 .gallary img {
-    width:100%
+    width:100px
     height:250px;
     object-fit: contain;
 }
