@@ -84,11 +84,11 @@ hr {
 
 .product {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     
 }
 .product p{
-    text-align: center;
+    text-align: contain;
     
 }
 .W{
