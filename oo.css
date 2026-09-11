@@ -70,7 +70,7 @@ hr {
     text-align: center;
 }
 .gallary{
-    width:100;
+    width:100%;
     display: grid;
     gap: 15px;
     grid-template-columns: repeat(2,1fr);
@@ -91,7 +91,7 @@ hr {
     
 }
 .W{
-    width=140;
+    width=140px;
     padding: 10px;
     font-size: 14px;
     display: inline-block;
