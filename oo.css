@@ -76,11 +76,6 @@ hr {
     grid-template-columns: repeat(2, 1fr);
 }
 
-.gallary img {
-    width: 100%;
-    height: 250px;
-    object-fit: contain;
-}
 
 .product {
     display: flex;
