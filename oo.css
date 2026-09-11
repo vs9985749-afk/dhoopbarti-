@@ -71,10 +71,10 @@ hr {
 
 
 .gallary{
-    width:100px;
+    width:100%;
     display: grid;
     gap: 15px;
-    grid-template-columns: repeat(2,2fr);
+    grid-template-columns: repeat(2,1fr);
 }
 .gallary img{
     width:100%
