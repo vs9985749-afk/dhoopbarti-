@@ -92,12 +92,12 @@ hr {
 }
 .W{
     width=140px;
-    padding: 10px;
-    font-size: 14px;
+    padding: 7px;
+    font-size: 12px;
     display: inline-block;
     background-color: #25D366;
     color:white;
-    border-radius: 10px;
+    border-radius: 8px;
     text-decoration: none;
     font-weight: bold;
 }
