@@ -71,7 +71,7 @@ hr {
 
 
 .gallary{
-    width:100;
+    width:100px;
     display: grid;
     gap: 15px;
     grid-template-columns: repeat(2,2fr);
@@ -84,7 +84,7 @@ hr {
 
 .product {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     
 }
 .product p{
