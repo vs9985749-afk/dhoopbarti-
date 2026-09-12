@@ -83,8 +83,7 @@ hr {
 
 .product {
     display: flex;
-    flex-direction: column;
-    
+    flex-direction: column;    
 }
 .product p{
     text-align: center;
@@ -100,6 +99,7 @@ hr {
     border-radius: 8px;
     text-decoration: none;
     font-weight: bold;
+    padding:12px;
 }
 
 
