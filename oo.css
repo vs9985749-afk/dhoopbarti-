@@ -93,7 +93,7 @@ hr {
 .W{
     width:160px;
     font-size: 12px;
-    display: inline-block;
+    display: block;
     background-color: #25D366;
     color:white;
     border-radius: 8px;
@@ -101,6 +101,7 @@ hr {
     font-weight: bold;
     padding:12px;
     text-align: center;
+    margin:10px auto;
 }
 .whattshap {
     display: block;
